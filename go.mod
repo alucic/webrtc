@@ -8,9 +8,9 @@ require (
 	github.com/pions/rtp v1.0.1
 	github.com/pions/sctp v1.4.1
 	github.com/pions/sdp/v2 v2.1.0
-	github.com/pions/srtp v1.0.4
+	github.com/pions/srtp v1.0.5-0.20190305022313-1318c741403f
 	github.com/pions/stun v0.2.0
-	github.com/pions/transport v0.2.0
+	github.com/pions/transport v0.3.1-0.20190305013111-118aa93db2bd
 	github.com/pkg/errors v0.8.1
 	github.com/stretchr/testify v1.3.0
 )
